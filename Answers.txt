@@ -1,0 +1,11 @@
+1. sudo systemctl
+2. sudo service sshd service
+3. ps --no-headers -o comm 1
+4. System is running systemD
+5. sudo systemctl stop sshd
+6. ssh <server name>
+7. sudo systemctl start sshd
+8. sudo vim /etc/ssh/sshd_config >> change port # to 32768
+9. sudo systemctl enable ssh
+10. systemctl list-unit-files | grep enabled
+11. systemctl list-units --type service
