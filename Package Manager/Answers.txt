@@ -1,0 +1,14 @@
+1. Installing is basically the same, you do 'yum install package' or 'apt-get install package' you get the same result.Yum automatically refreshes the list of packages, whilst with apt-get you must execute a command 'apt-get update' to get the fresh packages.Another difference is upgrading all the packages. With yum you did 'yum upgrade' and with apt-get you get a new option' apt-get dist-upgrade' which will hopefully upgrade your whole distribution.
+
+2. A file with the DEB file extension is a Debian Software Package file. They're used mainly in Unix-based operating systems, including Ubuntu and iOS.
+
+Every DEB file consists of two TAR archives that make up the executable files, documentation, and libraries. It may or may not be compressed using GZIP, BZIP2, LZMA, or XZ.
+
+3. You can install it using sudo dpkg -i /path/to/deb/file followed by sudo apt-get install -f.
+
+4. A file with the RPM file extension is a Red Hat Package Manager file that's used to store installation packages on Linux operating systems.
+
+RPM files provide an easy way for software to be distributed, installed, upgraded, and removed since the files are "packaged" in one place.
+
+Completely unrelated to what Linux uses them for, RPM files are also used as RealPlayer Plug-in files by the RealPlayer software to add additional features to the program.
+ 
