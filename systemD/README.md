@@ -9,7 +9,7 @@
 7. Start the SSH server and try again.
 8. Change the SSH port in a config files and restart the SSH server so that it takes affect.
 9. Make SSH start automatically on system start up.
-10. List all enabled system services.
+10. List all enabled system services. \n
 11.List all active system services.
 
 12.What is the difference between active and enabled?
