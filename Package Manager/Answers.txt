@@ -1,4 +1,4 @@
-1. Installing is basically the same, you do 'yum install package' or 'apt-get install package' you get the same result.Yum automatically refreshes the list of packages, whilst with apt-get you must execute a command 'apt-get update' to get the fresh packages.Another difference is upgrading all the packages. With yum you did 'yum upgrade' and with apt-get you get a new option' apt-get dist-upgrade' which will hopefully upgrade your whole distribution.
+1. Installing is basically the same, you do 'yum install package' or 'apt-get install package' you get the same result. Yum automatically refreshes the list of packages, whilst with apt-get you must execute a command 'apt-get update' to get the fresh packages. Another difference is upgrading all the packages. With yum you did 'yum upgrade' and with apt-get you get a new option' apt-get dist-upgrade' which will hopefully upgrade your whole distribution.
 
 2. A file with the DEB file extension is a Debian Software Package file. They're used mainly in Unix-based operating systems, including Ubuntu and iOS.
 
