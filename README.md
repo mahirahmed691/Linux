@@ -1,6 +1,3 @@
-# Linux
-
-
 # A list of tasks for managing services in Linux #
 
 1. List all of the services that are running on your machine.
