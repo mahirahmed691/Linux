@@ -1,4 +1,4 @@
-# Package manager exercies #
+# Package manager exercises #
 
 1. What is the difference between YUM and APT?
 2. What is a .deb file, and what does it contain?
