@@ -11,7 +11,6 @@
 9. Make SSH start automatically on system start up.
 10. List all enabled system services.
 11.List all active system services.
-
 12.What is the difference between active and enabled?
 13.Why do we specify type for systemctl?
 14.Write a local application / script that does something noticeable, create a “.service” file and enable it to run on startup.
