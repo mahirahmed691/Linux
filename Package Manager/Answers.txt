@@ -10,7 +10,6 @@ Every DEB file consists of two TAR archives that make up the executable files, d
 
 RPM files provide an easy way for software to be distributed, installed, upgraded, and removed since the files are "packaged" in one place.
 
-Completely unrelated to what Linux uses them for, RPM files are also used as RealPlayer Plug-in files by the RealPlayer software to add additional features to the program.
 5. yum update  && and sudo apt-get update
 
 6. yum -y install <package name> (add more packges with space in between) 
